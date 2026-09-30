@@ -4,7 +4,7 @@
 
 MySheets is a Revit add-in that batch-exports the sheets and views you select to **PDF, DWG, DXF, DWF, DGN, IFC, NWC and gbXML** — in a single run, with one naming rule and a review of exactly what will be written before anything leaves Revit.
 
-![MySheets — batch export for Autodesk Revit](https://mqns9xwe.autoclawai.space/assets/og.png)
+![MySheets — batch export for Autodesk Revit](https://mysheets.pages.dev/assets/og.png)
 
 ## The problem it solves
 
@@ -38,7 +38,7 @@ Issuing a set usually means opening sheet after sheet, exporting each one, renam
 ## Get the installer
 
 - **GitHub Releases:** download `MySheets-Setup-1.0.0.zip` from <https://github.com/mostafayossrii/MySheets/releases>
-- **Website:** <https://mqns9xwe.autoclawai.space/> — or a LinkedIn message to [Mostafa Yossri](https://www.linkedin.com/in/mostafayossri/)
+- **Website:** <https://mysheets.pages.dev/> — or a LinkedIn message to [Mostafa Yossri](https://www.linkedin.com/in/mostafayossri/)
 
 ## License
 
